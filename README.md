@@ -1,3 +1,5 @@
+# Symfony + React CRUD
+
 # Install Symfony CLI
  wget https://get.symfony.com/cli/installer -O - | bash
 
